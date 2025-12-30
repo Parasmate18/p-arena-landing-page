@@ -3,7 +3,7 @@
 A responsive landing page built using pure HTML and CSS.
 
 ## 🚀 Live Demo
-https://paras1818.github.io/p-arena-landing-page/
+https://parasmate18.github.io/p-arena-landing-page/
 
 ## ✨ Features
 - Clean hero section
